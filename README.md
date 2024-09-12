@@ -3,7 +3,7 @@ A website that anyone can edit!
 
 You can add anything!
 
-The content of the website will be uploaded to the Internet once a week on Thursdays. You can find the website here: https://openweb.9e.cz/
+The content of the website will be uploaded to the Internet once a week on Thursdays. You can find the website here: https://mistranonym.github.io/openweb/
 
 ## hosting
 Web is hosted at github pages.
